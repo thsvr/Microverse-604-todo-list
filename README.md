@@ -10,7 +10,7 @@
   <a href="https://github.com/uryelah/Microverse-604-todo-list/tree/todolist"> 
   <img src="public/img/mLogo.png" alt="Logo" width="80" height="80"> 
   </a> 
-  <h3 align="center">Todo List - <a href=''> Live version in progress</a></h3> 
+  <h3 align="center">Todo List - <a href='https://raw.githack.com/thsvr/Microverse-604-todo-list/development/dist/index.html'> Live version</a></h3> 
   <p align="center"> This project is part of the Microverse Javacript Section 
   <br /> 
   <a href="https://github.com/uryelah/Microverse-604-todo-list/tree/todolist/issues">Report Bug</a> 
